@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">W07b - AirBNB API</string>
+    <string name="catalog_content">Catalog content</string>
+    <string name="get_catalog">Search AirBNB opinions!</string>
+</resources>
